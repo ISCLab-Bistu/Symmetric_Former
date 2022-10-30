@@ -4,7 +4,7 @@ By Shengjun Liang, Mingxin Yu*, Xiongxin Tang**, Xiaolin Liu, Lianqing Zhu.
 
 This repo is the official implementation of "A Lightweight Vision Transformer with Symmetric Modules for Vision Tasks". It currently includes code and models for the following tasks:
 
-> **Image Classification**: Included in this repo. See [get_started.md](classification/get_started.md) for a quick start.
+> **Image Classification**: See [SF for Classification](classification).
 
 > **Object Detection**: See [SF for Object Detection](detection).
 
